@@ -2,8 +2,7 @@
 
 The task of this coding challenge is to develop a simple baseline approach for glaucoma classification on retinal fundus images.
 
-
-![Ohne Titel](https://user-images.githubusercontent.com/2522480/149496885-700aa21d-607d-400f-8280-99602af56162.png)
+![Ohne Titel](https://user-images.githubusercontent.com/2522480/149497318-fe47c02c-696a-4cb5-8841-2dbe6785029d.png)
 
 
 ## Goals

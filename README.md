@@ -11,7 +11,7 @@ The task of this coding challenge is to develop a simple baseline approach for g
 2. Evaluate your approach in a meaningful way that would allow a fair comparison to other methods. 
   a. Define 1-3 meaningful metrics
   b. Develop a meaningful experimental setup in terms of training/test/validation split and cross validation
-3. Present your approach and key results (10 minutes max).
+3. Present your approach and key results (10 minutes max). Please keep in mind that the target audience has diverse educational backgrounds.
 
 ## Data
 

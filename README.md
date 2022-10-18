@@ -1,4 +1,4 @@
-# CheckupPoint Machine Learning Coding Challenge
+# Ocumeda Machine Learning Coding Challenge
 
 The task of this coding challenge is to develop a simple baseline approach for glaucoma classification on retinal fundus images.
 

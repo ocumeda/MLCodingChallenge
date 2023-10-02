@@ -21,7 +21,11 @@ We are using the data from the [AIROGS Glaucoma Screening Challenge](https://air
 ## Implementation
 
 You should implement your approach in Python 3. For your ML approach, you can use libraries such as `torch`, `tensorflow`, `keras`, `scikit-learn`, `scikit-image`, `pandas`, `pytorch-lightning`. 
+💡Hint: As a starting point, you might find the discussions from the [Kaggle Diabetic Retinopathy Challenge](https://www.kaggle.com/c/diabetic-retinopathy-detection/code?competitionId=4104&sortBy=voteCount) useful.
+
+
+## Next Steps and Interview
 Please implement your approach in a private GitHub fork of this respository and send us the your code at least 12 hours before your 2nd interview. Please structure the repository such that we can reproduce a run (without data paths). For providing us the code, please send us a zip-export of the forked repo.
 
-💡Hint: As a starting point, you might find the discussions from the [Kaggle Diabetic Retinopathy Challenge](https://www.kaggle.com/c/diabetic-retinopathy-detection/code?competitionId=4104&sortBy=voteCount) useful.
+
 

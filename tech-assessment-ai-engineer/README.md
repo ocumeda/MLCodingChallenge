@@ -24,7 +24,8 @@ The goal of this assignment is to evaluate your ability to work with real-world 
    - Ensure that the experiments can be easily compared with one another.
 
 4. **Conclusion:**
-   - Based on the experiments and metrics tracked, draw a reasonable conclusion regarding the fine-tuning strategies. Prepare a discussion on which strategy performed best and why.
+
+Based on the experiments and metrics tracked, draw a reasonable conclusion regarding the fine-tuning strategies. Prepare a discussion on which strategy performed best and why.
 
 **Deliverables:**
 
@@ -39,4 +40,5 @@ The goal of this assignment is to evaluate your ability to work with real-world 
 Please submit your completed assignment as a zip file that you send us via e-mail. Ensure that the ZIP file contains clear instructions on how to run your code.
 
 **Deadline:**
-- Please submit your work at least 24h before your interview.
+
+Please submit your work at least 24h before your interview.

@@ -24,7 +24,7 @@ The goal of this assignment is to evaluate your ability to work with real-world 
    - Ensure that the experiments can be easily compared with one another.
 
 4. **Conclusion:**
-   - Based on the experiments and metrics tracked, draw a reasonable conclusion regarding the fine-tuning strategies. Discuss which strategy performed best and why.
+   - Based on the experiments and metrics tracked, draw a reasonable conclusion regarding the fine-tuning strategies. Prepare a discussion on which strategy performed best and why.
 
 **Deliverables:**
 
@@ -36,17 +36,7 @@ The goal of this assignment is to evaluate your ability to work with real-world 
 
 **Submission:**
 
-Please submit your completed assignment in one of the following ways:
-
-1. **GitHub Repository:**
-   - Fork the [public repository for this assignment](insert-repo-link-here) on GitHub.
-   - Complete the assignment within your forked repository.
-   - Once you have completed your work, invite us as collaborators to your private repository, ensuring that we have access to review your code and documentation.
-
-2. **ZIP File:**
-   - If you prefer not to use GitHub, you may alternatively compress your project files (including all code, documentation, and relevant data) into a ZIP file.
-   - Ensure that the ZIP file contains clear instructions on how to run your code.
-   - Send the ZIP file directly to [insert email address here].
+Please submit your completed assignment as a zip file that you send us via e-mail. Ensure that the ZIP file contains clear instructions on how to run your code.
 
 **Deadline:**
-- Please submit your work by [insert deadline here].
+- Please submit your work at least 24h before your interview.
